@@ -72,4 +72,4 @@ async def on_reaction_add(reaction, user):
             print("Poggers")
 
 # Run the bot
-bot.run('MTE2NDMyMTQzOTU2NzA3MzQ0MQ.GY_Whq.afnpTMJK8fNKeAEtbMYQpRdmxNXTxd8cEMBj40')
+bot.run("MTE2NDMyMTQzOTU2NzA3MzQ0MQ.GbejaB.wm_T_QZFPzDdX3rf0AU7pKf3ZqHSvo-2or9q94")
